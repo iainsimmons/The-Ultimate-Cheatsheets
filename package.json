@@ -9,18 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bradleytaunt/stacks-11ty"
+    "url": "https://github.com/visualway/the-ultimate-cheatsheets"
   },
   "author": {
-    "name": "Bradley Taunt",
-    "email": "bradleytaunt@gmail.com",
-    "url": "https://www.bradleytaunt.com/"
+    "name": "Abhiraj Bhowmick",
+    "email": "abhirajbhowmick27@gmail.com",
+    "url": "https://www.rainboestrykr.repl.co"
   },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/bradleytaunt/stacks-11ty/issues"
   },
-  "homepage": "https://stacks11ty.netlify.com/",
+  "homepage": "https://ultimatecheatsheets.netlify.app/",
   "devDependencies": {
     "@11ty/eleventy": "^0.11.1",
     "luxon": "^1.25.0",

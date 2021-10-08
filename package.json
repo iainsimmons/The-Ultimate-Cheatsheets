@@ -1,0 +1,37 @@
+{
+  "name": "Stacks",
+  "version": "1.0.0",
+  "description": "A custom eleventy template with personality.",
+  "scripts": {
+    "build": "npx eleventy",
+    "watch": "npx eleventy --watch",
+    "debug": "DEBUG=* npx eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bradleytaunt/stacks-11ty"
+  },
+  "author": {
+    "name": "Bradley Taunt",
+    "email": "bradleytaunt@gmail.com",
+    "url": "https://www.bradleytaunt.com/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bradleytaunt/stacks-11ty/issues"
+  },
+  "homepage": "https://stacks11ty.netlify.com/",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.1",
+    "luxon": "^1.25.0",
+    "markdown-it": "^12.0.2",
+    "markdown-it-anchor": "^6.0.0"
+  },
+  "dependencies": {
+    "clean-css": "^4.2.3",
+    "feather-icons": "^4.28.0",
+    "html-minifier": "^4.0.0",
+    "local-web-server": "^4.2.1",
+    "uglify-js": "^3.11.5"
+  }
+}

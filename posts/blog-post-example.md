@@ -1,5 +1,5 @@
 ---
-title: CSS Cheaatsheet
+title: CSS Cheatsheet
 summary: The Ultimate CSS Cheatsheet
 date: 2018-11-23
 tags:
@@ -185,31 +185,31 @@ Specifies the visual look of the content inside a template
 
 Box-Align
 ```css
-box-align : start;
+box-align: start;
 ```
 Box-Direction
 ```css
-box-direction : normal;
+box-direction: normal;
 ```
 Box-Flex
 ```css
-box-flex : normal;
+box-flex: normal;
 ```
 Box-Flex-Group
 ```css
-box-flex-group : 2;
+box-flex-group: 2;
 ```
 Box-Orient
 ```css
-box-orient : inline;
+box-orient: inline;
 ```
 Box-Pack
 ```css
-box-pack : justify;
+box-pack: justify;
 ```
 Box-Sizing
 ```css
-box-sizing : margin-box;
+box-sizing: margin-box;
 ```
 max-width
 ```css
@@ -257,31 +257,31 @@ These properties are used explicitly with columns of the tables, and they are us
 
 Column-Count
 ```css
-column-count : 10;
+column-count: 10;
 ```
 Column-Gap
 ```css
-column-gap : 5px;
+column-gap: 5px;
 ```
 Column-rule-width
 ```css
-column-rule-width : medium;
+column-rule-width: medium;
 ```
 Column-rule-style
 ```css
-column-rule-style : dotted ;
+column-rule-style: dotted ;
 ```
 Column-rule-color
 ```css
-column-rule-color : black;
+column-rule-color: black;
 ```
 Column-width
 ```css
-column-width : 10px;
+column-width: 10px;
 ```
 Column-span
 ```css
-column-span : all;
+column-span: all;
 ```
 List & Markers
 
@@ -293,15 +293,15 @@ list-style-type: square;
 ```
 List-style-position
 ```css
-list-style-position : 20px;
+list-style-position: 20px;
 ```
 List-style-image
 ```css
-list-style-image : url(image.gif);
+list-style-image: url(image.gif);
 ```
 Marker-offset
 ```css
-marker-offset : auto;
+marker-offset: auto;
 ```
 Animations
 
@@ -309,35 +309,35 @@ CSS animations allow one to animate transitions or other media files on the web 
 
 Animation-name
 ```css
-animation-name : myanimation;
+animation-name: myanimation;
 ```
 Animation-duration
 ```css
-animation-duration : 10s;
+animation-duration: 10s;
 ```
 Animation-timing-function
 ```css
-animation-timing-function : ease;
+animation-timing-function: ease;
 ```
 Animation-delay
 ```css
-animation-delay : 5ms;
+animation-delay: 5ms;
 ```
 Animation-iteration-count
 ```css
-animation-iteration-count : 3;
+animation-iteration-count: 3;
 ```
 Animation-direction
 ```css
-animation-direction : normal;
+animation-direction: normal;
 ```
 Animation-play-state
 ```css
-animation-play-state : running;
+animation-play-state: running;
 ```
 Animation-fill-mode
 ```css
-animation-fill-mode : both;
+animation-fill-mode: both;
 ```
 Transitions
 
@@ -349,15 +349,15 @@ transition-property: none;
 ```
 Transition-duration
 ```css
-transition-duration : 2s;
+transition-duration: 2s;
 ```
 Transition-timing-function
 ```css
 transition-timing-function: ease-in-out;
 ```
-Trancsssition-delay
+Transition-delay
 ```css
-transition-delay : 20ms;
+transition-delay: 20ms;
 ```
 
 CSS Flexbox
